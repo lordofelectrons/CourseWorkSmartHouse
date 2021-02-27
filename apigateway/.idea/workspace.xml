@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5ead9b6-782b-4a2f-b119-a82e3084a5e1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZobNTp9cDrsRLD99EhNaUXK9hC" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\sharaga\SMTRPZ-3\CourseWorkSmartHouse\apigateway\src\main\resources\static" />
+      <recent name="F:\sharaga\SMTRPZ-3\CourseWorkSmartHouse\apigateway\src\main\resources\static\css" />
+      <recent name="F:\sharaga\SMTRPZ-3\CourseWorkSmartHouse\apigateway\src\main\resources\static\js" />
+      <recent name="F:\sharaga\SMTRPZ-3\CourseWorkSmartHouse\apigateway\src\main\resources" />
+      <recent name="F:\sharaga\SMTRPZ-3\CourseWorkSmartHouse\apigateway\src\main\resources\templates\css" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.gateway.apigateway" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.apigateway" />
+      <recent name="com.example.apigateway.controller" />
+      <recent name="com.example.apigateway.config" />
+      <recent name="com.example.apigateway.domain" />
+      <recent name="com.example.apigateway.client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\sharaga\SMTRPZ-3\CourseWorkSmartHouse\apigateway\src\main\resources\static\js" />
+      <recent name="F:\sharaga\SMTRPZ-3\CourseWorkSmartHouse\apigateway\src\main\resources\templates" />
+      <recent name="F:\sharaga\SMTRPZ-3\CourseWorkSmartHouse\apigateway" />
+      <recent name="F:\sharaga\SMTRPZ-3\CourseWorkSmartHouse\apigateway\src\main\java\com\example\apigateway" />
+      <recent name="F:\sharaga\SMTRPZ-3\CourseWorkSmartHouse\apigateway\src\main\resources\templates\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApigatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="apigateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApigatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApigatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="apigateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApigatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5ead9b6-782b-4a2f-b119-a82e3084a5e1" name="Default Changelist" comment="" />
+      <created>1585508353259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585508353259</updated>
+      <workItem from="1585508355264" duration="1320000" />
+      <workItem from="1585562500749" duration="677000" />
+      <workItem from="1585563470997" duration="2334000" />
+      <workItem from="1585569236429" duration="7550000" />
+      <workItem from="1586185580093" duration="28907000" />
+      <workItem from="1587472980263" duration="4810000" />
+      <workItem from="1588587226293" duration="2986000" />
+      <workItem from="1588753566316" duration="15647000" />
+      <workItem from="1588953419525" duration="1215000" />
+      <workItem from="1589034705223" duration="31152000" />
+      <workItem from="1589203275370" duration="21659000" />
+      <workItem from="1589372923131" duration="34543000" />
+      <workItem from="1589564205689" duration="9901000" />
+      <workItem from="1589623965225" duration="14687000" />
+      <workItem from="1589739642799" duration="3076000" />
+      <workItem from="1590092703665" duration="652000" />
+      <workItem from="1590151473481" duration="1514000" />
+      <workItem from="1590254499022" duration="1031000" />
+      <workItem from="1590501209248" duration="1466000" />
+      <workItem from="1590571274421" duration="18429000" />
+      <workItem from="1590660172304" duration="11493000" />
+      <workItem from="1590762379286" duration="9178000" />
+      <workItem from="1590833270902" duration="4351000" />
+      <workItem from="1590919421282" duration="31786000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

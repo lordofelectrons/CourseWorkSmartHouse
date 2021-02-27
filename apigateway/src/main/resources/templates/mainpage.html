@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <title>Smart House Control</title>
+    <link rel="shortcut icon" href="homeserv.ico" type="image/x-icon">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" type="text/css"
+          href="css/stylesheet.css"/>
+</head>
+<body>
+    <div id="loginBlock">
+        <a class='forCancelRegLog' href='/'></a>
+        <form id='login' class="logRegForm">
+            <div class="topLine" id="logTopLine">Sign In Form</div>
+            <div><label> Nickname: <input required type="text" id="usernameLog"/> </label></div>
+            <div><label> Password: <input required type="password" id="passwordLog"/> </label></div>
+            <div><input type="submit" value="Sign In"/></div>
+            <div><label id='errorLog' style='color: red'></label></div>
+        </form>
+    </div>
+
+    <div id="registrationBlock">
+        <a class='forCancelRegLog' href='/'></a>
+        <form id='signup' class="logRegForm">
+            <div class="topLine" id="regTopLine">Register Form</div>
+            <div><label> Username (must be unique): <input required type="text" id="username"/> </label></div>
+            <div><label> First Name: <input type="text" id="first_name"/> </label></div>
+            <div><label> Last Name: <input type="text" id="last_name"/> </label></div>
+            <div><label> E-mail: <input type="text" id="email"/> </label></div>
+            <div><label> Password: <input required type="password" id="password"/> </label></div>
+            <div><input type="submit" value="Sign Up"/></div>
+        </form>
+    </div>
+
+    <a href="/" class="topLine"></a>
+    <div class="topLine">
+        SmartHouse
+        <div class="logRegButs" id="noCurrentUser">
+            <button class="login" style="border-radius: 10px 10px 0 0;">Log In</button>
+            <button class="registration" style="border-radius: 0 0 10px 10px;">Register</button>
+        </div>
+        <form class="logRegButs" id="currentUser">
+            <label style="display: block; max-width: 150px;" id="currentUsername"></label>
+            <input style="display: inline-block; max-width: 150px; float: right;" type="submit" value="Sign Out"/>
+        </form>
+    </div>
+
+    <div id="multiContainer"></div>
+
+    <a id="goToAdmin" href="/admin">
+        Go to admin page...
+    </a>
+
+    <script type="text/javascript" src="/webjars/sockjs-client/sockjs.min.js"></script>
+    <script type="text/javascript" src="/webjars/stomp-websocket/stomp.min.js"></script>
+    <script type="text/javascript" src="webjars/jquery/2.2.4/jquery.min.js"></script>
+    <script type="text/javascript" src="js/mainpage.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+</body>
+</html>

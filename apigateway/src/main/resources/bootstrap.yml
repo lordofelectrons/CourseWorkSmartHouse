@@ -1,0 +1,33 @@
+zuul:
+  ignoredServices: '*'
+  host:
+    connect-timeout-millis: 20000
+    socket-timeout-millis: 20000
+
+  routes:
+    authservice:
+      path: /auth/**
+      url: authservice
+      stripPrefix: true
+      sensitiveHeaders:
+
+    searchservice:
+      path: /search/**
+      serviceId: searchservice
+      stripPrefix: true
+      sensitiveHeaders:
+
+    sensorgen:
+      path: /sensor/**
+      serviceId: sensorgen
+      stripPrefix: true
+      sensitiveHeaders:
+
+    profile-control:
+      path: /control/**
+      serviceId: profile-control
+      stripPrefix: true
+      sensitiveHeaders:
+
+server:
+  port: 8081
